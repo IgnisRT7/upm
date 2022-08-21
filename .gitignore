@@ -1,6 +1,9 @@
 *.vsconfig
+*.csproj
+*sln
 Library
 Logs
 ProjectSettings
 Temp
 UserSettings
+/upmTest/obj

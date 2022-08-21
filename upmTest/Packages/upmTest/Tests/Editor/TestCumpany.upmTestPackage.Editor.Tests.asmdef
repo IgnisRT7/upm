@@ -1,0 +1,17 @@
+{
+    "name": "upmTest.upmTestPackage.Editor.Tests",
+    "references": [
+        "upmTest.upmTestPackage.Tests"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
